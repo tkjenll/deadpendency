@@ -16,8 +16,8 @@ assignees: ''
 <!--- Tell us what happens instead of the expected behavior -->
 
 ## Example Of Issue / Steps To Reproduce
-<!--- Provide a link to a publically accessible Deadpendency report showing the issue -->
-<!--- Or, if your repository is private, provide steps that will trigger the behaviour -->
+<!--- Provide a link to a publicly accessible Deadpendency report showing the issue -->
+<!--- Or, if your repository is private, provide steps that will trigger the behavior -->
 <!--- If a specific dependency is not showing the expected result, feel free to just list the package name -->
 
 ## Other Comments

@@ -12,15 +12,14 @@ assignees: ''
 ## Why do you want this feature?
 <!--- Tell us why you think the feature would be useful to you -->
 <!--- Example:
-  I have many dependency files which are fully separate applications
-  in a single repository. It would make the report easy to review
-  if the dependencies were broken down by dependency file.
+  I have a single repository with multiple separate applications. It would make the report easy to review if I could break the report down by directory.
 -->
 
 ## Acceptance Critera
 <!--- What specific changes to Deadpendency would provide the most value to you -->
 <!--- Example:
-  - Add a flag to the config to enable breaking down the report by dependency file.
+  - Add config setting to list directories for breaking down the report.
+  - If any of the sub-reports contain a failure, the overall check will fail.
 -->
 
 ## Other Comments
